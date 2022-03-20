@@ -1,0 +1,10 @@
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/bin/Debug/netcoreapp3.1/CustomerApi.deps.json
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/bin/Debug/netcoreapp3.1/CustomerApi.dll
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/bin/Debug/netcoreapp3.1/CustomerApi.pdb
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.AssemblyInfoInputs.cache
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.AssemblyInfo.cs
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.csproj.CoreCompileInputs.cache
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.dll
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.pdb
+/Users/Sanjaya.Semasundara/Documents/My/My/Youtube/UnitTestDemo/UnitTestDemo1/CustomerApi/obj/Debug/netcoreapp3.1/CustomerApi.csproj.AssemblyReference.cache
